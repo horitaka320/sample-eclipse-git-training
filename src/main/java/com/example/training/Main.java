@@ -1,4 +1,4 @@
-package com.example.training;
+package main.java.com.example.training;
 
 public class Main {
 
